@@ -7,21 +7,21 @@ The Car Inventory Analysis project is designed to explore and analyze key insigh
 - Examine how mileage influences the price of a car. 
 - Visualize the number of cars available by brand and color. 
 - Identify important insights that can help in pricing and inventory management.
-  ### Expected Outcomes 
+### Expected Outcomes 
 
 - A comprehensive understanding of the dataset through summary statistics. 
 - Clear visual representations of car price distribution, mileage vs. price trends, and car counts by brand and color. 
 - Identification of key factors affecting car pricing and inventory trends. 
 - Actionable insights for decision-making in car pricing and inventory planning.
 
-  ### Key Questions 
+### Key Questions 
 - What is the general price distribution of cars in the inventory? 
 - How does mileage impact the price of a car? 
 - Which car brands are most commonly available in the inventory? 
 - What are the most popular car colors in the dataset? 
 - Are there any noticeable pricing trends based on car make and mileage?
 
-- # CAR INVENTORY ANALYSIS PROJECT
+# CAR INVENTORY ANALYSIS PROJECT
   
 ### Project Overview 
 
@@ -32,16 +32,16 @@ This Data Analysis Project aims to provide insight from a dataset containing det
 - Excel [Website](https//:office.com)
 - Jupyter Notebook
 
-  ### Cleaning and Preprocessing the Dataset
+### Cleaning and Preprocessing the Dataset
   To ensure data integrity:
   1. Importing Libraries & Load Dataset
   2. Checking for missing values
   3. Removing duplicates (if any)
   4. Removing unwanted characters from numeric columns and convert to numbers
  
-  ### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
-  Key Questions
+ Key Questions
   
 - What is the general price distribution of cars in the inventory?
 - How does mileage impact the price of a car? 
@@ -111,7 +111,7 @@ We recommend the following:
 5. Brand-Level Promotions:
    - Promote Toyota, Ford, and Chevrolet heavily — their popularity means faster sales turnover.
    - Consider extended warranty or service packages for these brands to boost sales volume.
-owv-izmj-kcg
+
 6. Data-Driven Pricing:
    - Implement a pricing model based on mileage, brand, and color popularity to optimize profit while staying competitive.
 
