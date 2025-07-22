@@ -92,9 +92,21 @@ Summary of Key Insights from the Car Inventory Analysis Price Trends:
 
 
 2. Mileage vs. Price: Cars with lower mileage generally cost more, which is expected, there are a few high-mileage vehicles priced higher—possibly due to brand value or condition.
+
+<img width="507" height="333" alt="download" src="https://github.com/user-attachments/assets/c8c27376-6f15-48c3-a2df-6016d2b1af20" />
+
  3. Popular Brands: The most common brands in the inventory are Toyota, Ford, and Chevrolet. This may suggest either high customer demand or dealer preference for these brands.
+
+<img width="488" height="364" alt="download" src="https://github.com/user-attachments/assets/3e5800bd-20af-4964-827c-f5a13e41e1c5" />
+
 4. Car Color Preferences: Colors like Silver, Black, and White dominate the inventory. This can be useful in restocking and marketing based on color popularity.
-5. Profitability: The average profit margin differs by brand. Brands like Ford and Chevrolet seem to have higher average profits compared to others.
+
+<img width="488" height="333" alt="download" src="https://github.com/user-attachments/assets/a52f1d25-4323-4cb6-8635-de3d55cf1b0e" />
+
+6. Profitability: The average profit margin differs by brand. Brands like Ford and Chevrolet seem to have higher average profits compared to others.
+
+<img width="500" height="371" alt="download" src="https://github.com/user-attachments/assets/23aabb46-6c9c-450c-bfaf-714fe12e9696" />
+
 
 ### Recommendation
 
